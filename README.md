@@ -1,5 +1,6 @@
 # Modulo_03_InProgress
 InProgress4 - Modulo_03 do GoStack Bootcamp, utilizando Node.js. Aplicativo GoBarber, para agendamentos. 
+
 Origin --> O Provedor de serviços, autenticado(jwt) na aplicação, após o login, recebe um token e está apto a cadastrar clientes.
 
 Atualização 1 --> Os clientes podem agendar tratamentos/consultas/aulas, informando dia e horário, com os provedores. 
