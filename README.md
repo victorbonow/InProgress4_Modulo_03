@@ -9,4 +9,4 @@ Atualização 2 --> Quando uma reserva é efetivada o fornecedor recebe o id, no
 
 Atualização 3--> O cliente pode enviar/cancelar reservas e o provedor recebe notificações.
 
-Atualização 4 --> Se o cliente cancelar uma reserva o provedor receberá uma email contendo o nome do cliente e o horário, que foi cancelado.
+Atualização 4 --> Se o cliente cancelar uma reserva o provedor receberá um email contendo o nome do cliente e o horário, que foi cancelado.
